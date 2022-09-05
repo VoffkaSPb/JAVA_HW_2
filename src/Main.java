@@ -4,7 +4,7 @@ public class Main {
         int ticketCost = 10000;
         int rubMiles = 20;
 
-        int BonusMiles = ticketCost / rubMiles;
+        int bonusMiles = ticketCost / rubMiles;
 
         System.out.println("Вам начислено: " + BonusMiles + " миль");
     }
